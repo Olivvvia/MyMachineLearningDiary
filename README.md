@@ -1,4 +1,5 @@
-#MachineLearningDiary
+#MyMachineLearningDiary
+
 [1] Type of Models
 1. Linear Model
 
