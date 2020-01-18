@@ -1,5 +1,4 @@
 # MyMachineLearningDiary
-A record of my Machine Learning selfstudy.
 ============ Contents ===========
 1. Model Types
 
