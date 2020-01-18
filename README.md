@@ -1,10 +1,5 @@
 #MyMachineLearningDiary
 
-[1] Type of Models:
-1. Linear Model
-
-2. Non-Linear Model 
-  
 
 
 [2] Model Selection Methods:
