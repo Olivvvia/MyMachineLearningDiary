@@ -1,6 +1,12 @@
 -- Type of Models:
 1. Linear Model
+1) Simple Linear Regression
+    y = a + bx1 + cx2 + ...
+=> Least Square Method
+2) Multivariate Linear Regression
+   y = xß + c
+3)Log-linear Regression
+  lny = xß + c
 
 2. Non-Linear Model 
-  
-
+1) Logistic Regression
