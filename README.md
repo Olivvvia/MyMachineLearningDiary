@@ -4,6 +4,9 @@
 
 2. Model Selection Methods
 
+3. Decision Tree
+
+
 
 
 To BE CONTINUED...
